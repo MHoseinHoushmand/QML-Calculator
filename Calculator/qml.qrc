@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>image/dark_background.jpg</file>
+        <file>image/light_background.jpg</file>
+        <file>image/calculator.png</file>
+    </qresource>
+</RCC>
